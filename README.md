@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 I'm Hammad Sheikh-Bin-Nadeem, Founder & CEO of TECHVIO CHATS 🤖👨🏻‍💻
 
-<!--
-**hammad-air/hammad-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔥 Web & NLP Developer and Consultant
+
+📢 Core Tean member of Google Developers Student Club 2022-23 | SMI UNIVERSITY
+
+✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+
+📓 I’m currently learning Blockchain dApp Development... 😭
+
+📧 hammadn788@gmail.com
+
+🎨 Portfolio: https://hammad-air.github.io/hammad/
+
+💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+
+📷 Instagram : https://www.instagram.com/hammad2980/
