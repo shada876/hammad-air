@@ -6,7 +6,7 @@ Hi 👋 I'm Hammad Sheikh-Bin-Nadeem, Founder & CEO of TECHVIO CHATS 🤖👨�
 
 🔥 Web & NLP Developer and Consultant
 
-📢 Core Tean member of Google Developers Student Club 2022-23 | SMI UNIVERSITY
+📢 Core Team member of Google Developers Student Club 2022-23 | SMI UNIVERSITY
 
 ✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
 
