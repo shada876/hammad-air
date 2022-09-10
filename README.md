@@ -4,7 +4,9 @@ Hi 👋 I'm Hammad Sheikh-Bin-Nadeem, Founder & CEO of TECHVIO CHATS 🤖👨�
 
 
 
-🔥 Web & NLP Developer and Consultant
+🔥 NLP & VUI Consultant and Web Developer 
+
+💸 LEVEL-01 SELLER Of DIALOGFLOW on Fiverr
 
 📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
 
