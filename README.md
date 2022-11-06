@@ -93,7 +93,7 @@ Hi 👋 I'm Hammad Sheikh-Bin-Nadeem, Founder & CEO of TECHVIO CHATS 🤖👨�
  
 <br>
 
-
+<!-- 
 ## Personal Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
@@ -150,3 +150,4 @@ Hi 👋 I'm Hammad Sheikh-Bin-Nadeem, Founder & CEO of TECHVIO CHATS 🤖👨�
   Views<br>
   <img src="https://profile-counter.glitch.me/mubashar-nouman/count.svg" />
 </p>
+ -->
