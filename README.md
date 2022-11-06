@@ -44,7 +44,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://www.pngfind.com/pngs/m/134-1343608_fiverr-logo-png-transparent-png.png" width="100">
+        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -63,7 +63,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://howdesignlive.com/wp-content/uploads/2021/03/figma-vector-logo.png">
+        <img src="https://www.pngfind.com/pngs/m/259-2592433_how-to-change-privacy-settings-for-alexa-amazon.png">
     </td>
 </tr>
  
