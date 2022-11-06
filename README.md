@@ -34,7 +34,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSULEDocoBh51X4ERV1XsxuepQbmI9cZp3a_eBsaBI&s" width="80">
+        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
 
   <td align='center' width="200">
@@ -74,7 +74,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@mubashar_nouman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
