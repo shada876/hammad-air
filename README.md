@@ -63,7 +63,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://www.pngfind.com/pngs/m/259-2592433_how-to-change-privacy-settings-for-alexa-amazon.png">
+        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
 </tr>
  
