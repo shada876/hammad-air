@@ -34,7 +34,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dialogflow-icon.png" width="80">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSULEDocoBh51X4ERV1XsxuepQbmI9cZp3a_eBsaBI&s" width="80">
     </td>
 
   <td align='center' width="200">
