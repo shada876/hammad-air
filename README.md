@@ -44,7 +44,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://1000logos.net/wp-content/uploads/2017/08/Font-Fiverr-Logo.jpg" width="100">
+        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
