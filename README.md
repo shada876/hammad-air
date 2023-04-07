@@ -9,12 +9,16 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-👨🏻‍💻  Founder & CEO of TECHVIO CHATS 🤖👨🏻‍💻
+🤵 Founder & CEO of TECHVIO CHATS 🤖
+	
+👨‍💻 Lead NLP Developer at HandyHelps
 
 🔥 NLP & VUI Consultant and Web Developer 
+	
+💰 RISING TALENT at UPWORK ✅
 
 💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
-
+	
 📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
 
 ✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
