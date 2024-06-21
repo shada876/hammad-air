@@ -48,7 +48,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
     </td>
  <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Finternee.pkpng%20logo%20with%20slogan%402x.png?alt=media&token=ccc4c8e5-809c-416a-93a2-fb107e3b8fa1" width="80">
     </td>
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
