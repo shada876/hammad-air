@@ -22,14 +22,14 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" width="80">
+        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
     </td>
 
   <td align='center' width="200">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46"  >
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
     </td>
  <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
