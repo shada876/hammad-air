@@ -66,7 +66,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1590522535032.png?alt=media&token=fb2cfe3b-0b15-48e6-8abd-1e1b0b8308f2">
     </td>
  <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
+        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fimages.png?alt=media&token=b1a763bb-970f-4c95-8e6a-c014434f9d1e" >
     </td>
      <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1669196979547.png?alt=media&token=03966909-94db-47e0-9e07-b82dffd79ceb">
