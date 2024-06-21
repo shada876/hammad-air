@@ -14,10 +14,6 @@
 👨‍💻 AI Engineer CargoAI
 	
 💸 Help 80+ Clients via Generative AI & Automation
-	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
-
-📓 I’m currently learning LLM's and Genrative AI... 😭
 
 📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
