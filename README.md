@@ -54,7 +54,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
     </td>    
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
     </td>
 </tr>
 
@@ -72,7 +72,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1669196979547.png?alt=media&token=03966909-94db-47e0-9e07-b82dffd79ceb">
     </td>    
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
     </td>
 </tr>
  
