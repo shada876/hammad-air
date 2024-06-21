@@ -48,7 +48,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
     </td>
  <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Finternee.pkpng%20logo%20with%20slogan%402x.png?alt=media&token=ccc4c8e5-809c-416a-93a2-fb107e3b8fa1" >
+        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
     </td>
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
